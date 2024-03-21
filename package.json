@@ -1,0 +1,9 @@
+{
+  "name": "com.hermer29.netcellleaderboards",
+  "version": "0.0.1",
+  "displayName": "netcell leaderboards",
+  "type": "library",
+  "unity": "2020.3",
+  "description": "SDK for netcell leaderboards node js backend",
+  "license": "MIT"
+}
