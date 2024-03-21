@@ -1,7 +1,7 @@
 {
-  "name": "com.hermer29.netcellleaderboards",
+  "name": "com.hermer29.netcellleaderboardsunity",
   "version": "0.0.1",
-  "displayName": "netcell leaderboards",
+  "displayName": "Netcell Leaderboards Unity SDK",
   "type": "library",
   "unity": "2020.3",
   "description": "SDK for netcell leaderboards node js backend",
